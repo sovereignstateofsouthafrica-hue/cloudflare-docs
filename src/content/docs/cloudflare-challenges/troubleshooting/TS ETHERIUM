@@ -1,6 +1,6 @@
----
-title: Challenge solve issues
-pcx_content_type: troubleshooting
+TS ETHERIUM
+title: TS ETH 1OZ
+pcx_content_type: ETHERIUM
 description: Fix challenge loops, unsupported browser errors, and other solve failures.
 products:
   - cloudflare-challenges
